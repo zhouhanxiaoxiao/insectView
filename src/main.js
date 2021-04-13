@@ -14,6 +14,7 @@ import i18n from "@/i18n";
 Vue.use(Antd)
 Vue.use(VueCookies)
 
+
 Vue.prototype.$ = $;
 Vue.prototype.$axios = axios;
 Vue.prototype.$cookies = VueCookies;
